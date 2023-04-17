@@ -1,0 +1,15 @@
+C:\Users\cristian.murillo\OneDrive - Cadence, Inc\Desktop\Trabajos Clase\Tarea 2 C#\bin\Debug\net7.0\Tarea 2 C#.exe
+C:\Users\cristian.murillo\OneDrive - Cadence, Inc\Desktop\Trabajos Clase\Tarea 2 C#\bin\Debug\net7.0\Tarea 2 C#.deps.json
+C:\Users\cristian.murillo\OneDrive - Cadence, Inc\Desktop\Trabajos Clase\Tarea 2 C#\bin\Debug\net7.0\Tarea 2 C#.runtimeconfig.json
+C:\Users\cristian.murillo\OneDrive - Cadence, Inc\Desktop\Trabajos Clase\Tarea 2 C#\bin\Debug\net7.0\Tarea 2 C#.dll
+C:\Users\cristian.murillo\OneDrive - Cadence, Inc\Desktop\Trabajos Clase\Tarea 2 C#\bin\Debug\net7.0\Tarea 2 C#.pdb
+C:\Users\cristian.murillo\OneDrive - Cadence, Inc\Desktop\Trabajos Clase\Tarea 2 C#\obj\Debug\net7.0\Tarea 2 C#.csproj.AssemblyReference.cache
+C:\Users\cristian.murillo\OneDrive - Cadence, Inc\Desktop\Trabajos Clase\Tarea 2 C#\obj\Debug\net7.0\Tarea 2 C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cristian.murillo\OneDrive - Cadence, Inc\Desktop\Trabajos Clase\Tarea 2 C#\obj\Debug\net7.0\Tarea 2 C#.AssemblyInfoInputs.cache
+C:\Users\cristian.murillo\OneDrive - Cadence, Inc\Desktop\Trabajos Clase\Tarea 2 C#\obj\Debug\net7.0\Tarea 2 C#.AssemblyInfo.cs
+C:\Users\cristian.murillo\OneDrive - Cadence, Inc\Desktop\Trabajos Clase\Tarea 2 C#\obj\Debug\net7.0\Tarea 2 C#.csproj.CoreCompileInputs.cache
+C:\Users\cristian.murillo\OneDrive - Cadence, Inc\Desktop\Trabajos Clase\Tarea 2 C#\obj\Debug\net7.0\Tarea 2 C#.dll
+C:\Users\cristian.murillo\OneDrive - Cadence, Inc\Desktop\Trabajos Clase\Tarea 2 C#\obj\Debug\net7.0\refint\Tarea 2 C#.dll
+C:\Users\cristian.murillo\OneDrive - Cadence, Inc\Desktop\Trabajos Clase\Tarea 2 C#\obj\Debug\net7.0\Tarea 2 C#.pdb
+C:\Users\cristian.murillo\OneDrive - Cadence, Inc\Desktop\Trabajos Clase\Tarea 2 C#\obj\Debug\net7.0\Tarea 2 C#.genruntimeconfig.cache
+C:\Users\cristian.murillo\OneDrive - Cadence, Inc\Desktop\Trabajos Clase\Tarea 2 C#\obj\Debug\net7.0\ref\Tarea 2 C#.dll
